@@ -126,8 +126,4 @@
 <div align="center">
   <h3>🌟 "Code with passion, hack with ethics, learn without limits!" 🌟</h3>
   <h4>- Anuj Bolewar</h4>
-  
-  ![](https://visitor-badge.glitch.me/badge?page_id=anujbolewar.anujbolewar)
-  
-  ⭐️ From [anujbolewar](https://github.com/anujbolewar)
 </div>
