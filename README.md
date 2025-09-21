@@ -54,7 +54,41 @@
 ![Burp Suite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Social Engineer Toolkit](https://img.shields.io/badge/SET-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-## 🏆 Featured Projects
+
+## 📊 Real-time GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujbolewar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujbolewar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0)
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=anujbolewar&theme=tokyonight&hide_border=true)
+
+</div>
+
+### 📈 Contribution Graph
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anujbolewar&theme=tokyo-night&hide_border=true&area=true&custom_title=Anuj's%20Contribution%20Graph)
+
+</div>
+
+### ⚡ Real-time Metrics
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=anujbolewar&color=00d9ff&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/anujbolewar?style=for-the-badge&color=00d9ff)
+![GitHub User's stars](https://img.shields.io/github/stars/anujbolewar?style=for-the-badge&color=00d9ff)
+
+</div>
+
+
+## 🏅 Featured Projects
 
 ### 🎯 Help Desk Website
 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB  
@@ -68,17 +102,6 @@
 - Implemented ML algorithms for sentiment analysis and pattern recognition
 - Real-time monitoring system with automated threat classification
 - [🔗 View Project](https://cuberp.streamlit.app/)
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anujbolewar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujbolewar&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujbolewar&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ## 🏅 Achievements & Experience
 
@@ -98,12 +121,6 @@
 - Binary Exploitation: Pwn tools, ROPgadget
 - Malware Analysis: Static & Dynamic analysis
 ```
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujbolewar&theme=tokyo-night&hide_border=true&area=true" />
-</div>
 
 ## 🤝 Connect With Me
 
@@ -126,4 +143,7 @@
 <div align="center">
   <h3>🌟 "Code with passion, hack with ethics, learn without limits!" 🌟</h3>
   <h4>- Anuj Bolewar</h4>
+  
+ 
+  
 </div>
