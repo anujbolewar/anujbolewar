@@ -88,9 +88,9 @@
 </div>
 
 
-## 🏅 Featured Projects
+##  Featured Projects
 
-### 🎯 Help Desk Website
+###  Help Desk Website
 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB  
 - Designed and developed a comprehensive helpdesk platform to bridge communication between college seniors and juniors
 - Built CMS for admin management of announcements, competitions, and student data
@@ -101,17 +101,17 @@
 - Built for hackathon to detect anti-national social media campaigns
 - Implemented ML algorithms for sentiment analysis and pattern recognition
 - Real-time monitoring system with automated threat classification
-- [🔗 View Project](https://cuberp.streamlit.app/)
+- [ View Project](https://cuberp.streamlit.app/)
 
-## 🏅 Achievements & Experience
+##  Achievements & Experience
 
-- 🏆 **Competitive Coding**: Solved numerous problems and secured strong ranks in multiple contests on platforms like Codeforces, LeetCode, and CodeChef.
-- 🛡️ **Anti-India Campaign Detection Hackathon** - Built ML-powered threat detection system
-- 💼 **Launchpad Startup Program** - Entrepreneurship and innovation program.
-- 🔍 **Cybersecurity Research Enthusiast** - Linux-based tools, penetration testing, malware analysis
-- 💻 **Full-Stack Developer** - End-to-end web application development
+-  **Competitive Coding**: Solved numerous problems and secured strong ranks in multiple contests on platforms like Codeforces, LeetCode, and CodeChef.
+-  **Anti-India Campaign Detection Hackathon** - Built ML-powered threat detection system
+-  **Launchpad Startup Program** - Entrepreneurship and innovation program.
+-  **Cybersecurity Research Enthusiast** - Linux-based tools, penetration testing, malware analysis
+-  **Full-Stack Developer** - End-to-end web application development
 
-## 🎯 Cybersecurity Skills
+## Cybersecurity Skills
 
 ```bash
 # Tools I work with
