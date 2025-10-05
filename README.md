@@ -66,7 +66,7 @@
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=anujbolewar&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=anujbolewar&theme=tokyonight&hide_border=true)](https://github.com/anujbolewar)
 
 </div>
 
