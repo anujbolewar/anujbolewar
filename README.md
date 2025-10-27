@@ -1,83 +1,90 @@
-# Hi there, I'm **Anuj Bolewar** 👋
+# Anuj Bolewar
+
+**Computer Science (AI/ML) Student** | YCCE Nagpur
+
+Building secure, intelligent systems at the intersection of cybersecurity and artificial intelligence.
+
+---
+
+## About
+
+I specialize in cybersecurity and full-stack development, with a focus on creating secure and scalable applications. My expertise spans penetration testing, security research, and modern web technologies. I am particularly interested in the convergence of AI and security, exploring how machine learning can enhance threat detection and system resilience.
+
+---
+
+## Current Focus
+
+- Conducting penetration testing and security research to identify vulnerabilities
+- Building intelligent applications with LangChain and Agentic AI frameworks
+- Contributing to open-source security and AI projects
+- Exploring Web3 technologies and decentralized systems
+
+---
+
+## Technical Skills
+
+**Languages & Frameworks**
+- Python, JavaScript, TypeScript
+- React, Node.js, Express.js, FastAPI
+- LangChain, TensorFlow, scikit-learn
+
+**Databases**
+- MongoDB, PostgreSQL, Redis
+
+**Security & Tools**
+- Kali Linux, Arch Linux
+- Burp Suite, Wireshark, Metasploit
+- OWASP methodologies, Network security analysis
+
+---
+
+## GitHub Statistics
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=CSE+(AIML)+Student+%40+YCCE+Nagpur;Cybersecurity+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
-</div>
 
-## 👨‍💻 About Me
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujbolewar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff)
 
-Computer Science (AI/ML) student at YCCE Nagpur with a passion for **cybersecurity** and **full-stack development**. I focus on building secure, scalable applications while exploring penetration testing and AI technologies.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anujbolewar&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
 
-## 🔭 Current Focus
-
-- Penetration testing and security research
-- Building with **LangChain** and exploring **Agentic AI**
-- Contributing to open-source projects
-- Exploring Web3 technologies
-
-## 🛠️ Core Tech Stack
-
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Cybersecurity Tools**  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujbolewar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=anujbolewar&theme=tokyonight&hide_border=true)](https://github.com/anujbolewar)
-
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anujbolewar&theme=tokyo-night&hide_border=true&area=true&custom_title=Anuj's%20Contribution%20Graph)
-
-</div>
-
-## 🚀 Featured Projects
-
-### 🛡️ Anti-India Campaign Detection System
-ML-powered system for detecting anti-national social media campaigns with real-time monitoring and automated threat classification.  
-**Tech:** Python, Machine Learning, NLP, Flask  
-[View Project](https://cuberp.streamlit.app/)
-
-### 🎓 Help Desk Website
-Comprehensive helpdesk platform connecting college seniors and juniors with admin CMS for announcements and student management.  
-**Tech:** MERN Stack (MongoDB, Express.js, React, Node.js)
-
-## 🏆 Highlights
-
-- Strong competitive coding background across Codeforces, LeetCode, and CodeChef
-- Launchpad Startup Program participant
-- Active in cybersecurity research and penetration testing
-
-## 🤝 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anujbolewar/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anujbolewar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bolewara@gmail.com)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujbolewar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
 
 </div>
 
 ---
+
+## Featured Projects
+
+**Anti-India Campaign Detection System**
+- Machine learning system for detecting coordinated misinformation campaigns
+- Technologies: Python, NLP, TensorFlow, scikit-learn
+- Implemented advanced text classification and sentiment analysis algorithms
+
+**Help Desk Management System**
+- Full-stack ticketing and support platform with real-time notifications
+- Technologies: MongoDB, Express.js, React, Node.js
+- Features include role-based access control and ticket lifecycle management
+
+---
+
+## Achievements
+
+- Active participant in competitive programming competitions
+- Selected for Launchpad Startup Program for innovative project development
+- Engaged in independent security research and responsible disclosure
+- Regular contributor to cybersecurity communities and knowledge sharing
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anujbolewar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anujbolewar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anujbolewar@example.com)
+
+---
+
+<div align="center">
+
+*Building secure systems, one commit at a time.*
+
+</div>
