@@ -1,6 +1,6 @@
-# Anuj Bolewar
+# Anuj Bolewar 🇮🇳
 
-**Computer Science (AI/ML) Student** | YCCE Nagpur
+**Computer Science (AI/ML)**
 
 Building secure, intelligent systems at the intersection of cybersecurity and artificial intelligence.
 
@@ -42,44 +42,20 @@ I specialize in cybersecurity and full-stack development, with a focus on creati
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujbolewar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujbolewar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9933&text_color=c9d1d9&icon_color=138808)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anujbolewar&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujbolewar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anujbolewar&theme=dark&hide_border=true&background=0d1117&stroke=138808&ring=FF9933&fire=FF9933&currStreakLabel=c9d1d9)
 
 </div>
 
 ---
 
-## Featured Projects
-
-**Anti-India Campaign Detection System**
-- Machine learning system for detecting coordinated misinformation campaigns
-- Technologies: Python, NLP, TensorFlow, scikit-learn
-- Implemented advanced text classification and sentiment analysis algorithms
-
-**Help Desk Management System**
-- Full-stack ticketing and support platform with real-time notifications
-- Technologies: MongoDB, Express.js, React, Node.js
-- Features include role-based access control and ticket lifecycle management
-
----
-
-## Achievements
-
-- Active participant in competitive programming competitions
-- Selected for Launchpad Startup Program for innovative project development
-- Engaged in independent security research and responsible disclosure
-- Regular contributor to cybersecurity communities and knowledge sharing
-
----
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anujbolewar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anujbolewar)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anujbolewar@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bolewara@gmail.com)
 
 ---
 
