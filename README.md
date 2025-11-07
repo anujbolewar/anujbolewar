@@ -1,43 +1,26 @@
-# Anuj Bolewar 🇮🇳
+# Anuj Bolewar
 
-Computer Science (AI/ML) • Building secure, intelligent systems at the intersection of cybersecurity and artificial intelligence.
+**Full-Stack Developer & Security Engineer**
 
-## About
+Building secure, scalable web applications with a focus on security-first development practices. Specializing in modern full-stack technologies and implementing robust security measures throughout the development lifecycle.
 
-I specialize in cybersecurity and full-stack development, focusing on secure and scalable applications. My work spans penetration testing, security research, and modern web technologies, exploring how machine learning can enhance threat detection and system resilience.
+**Technical Expertise**
 
-## Current Focus
+Python • JavaScript • TypeScript • React • Node.js • Express.js • FastAPI  
+MongoDB • PostgreSQL • Redis • Secure Coding • OWASP • Penetration Testing
 
-- Conducting penetration testing and security research
-- Building intelligent applications with LangChain and Agentic AI
-- Contributing to open-source security and AI projects
-- Exploring Web3 technologies and decentralized systems
+**Connect**
 
-## Technical Skills
-
-**Languages & Frameworks**  
-Python, JavaScript, TypeScript • React, Node.js, Express.js, FastAPI • LangChain, TensorFlow, scikit-learn
-
-**Databases**  
-MongoDB, PostgreSQL, Redis
-
-**Security & Tools**  
-Kali Linux, Arch Linux • Burp Suite, Wireshark, Metasploit • OWASP methodologies, Network security
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anujbolewar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anujbolewar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anujbolewar)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bolewara@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bolewara@gmail.com)
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujbolewar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9933&text_color=c9d1d9&icon_color=138808)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujbolewar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=anujbolewar&theme=dark&hide_border=true&background=0d1117&stroke=138808&ring=FF9933&fire=FF9933&currStreakLabel=c9d1d9)
-
-*Building secure systems, one commit at a time.*
+![GitHub Streak](https://streak-stats.demolab.com/?user=anujbolewar&theme=dark&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=c9d1d9)
 
 </div>
