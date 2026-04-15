@@ -16,3 +16,37 @@ MongoDB • PostgreSQL • Redis • Secure Coding • OWASP • Penetration Tes
 
 ---
 
+## 🏆 Google Developer Badges
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" width="100" alt="Google Developer Program Premium"/><br />
+      <sub><b>Premium Tier</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://developers.google.com/static/profile/badges/community/gdg/GDGoC/member/badge.svg" width="100" alt="GDG on Campus Member"/><br />
+      <sub><b>GDG on Campus</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://developers.google.com/static/profile/badges/community/gdg/chapter/badge.svg" width="100" alt="GDG Cloud Member"/><br />
+      <sub><b>GDG Cloud</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://developers.google.com/static/profile/badges/community/gdg/chapter/badge.svg" width="100" alt="GDG Chapter Member"/><br />
+      <sub><b>GDG Nagpur</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://developers.google.com/static/profile/badges/community/gdg/chapter/badge.svg" width="100" alt="GDG Chapter Member"/><br />
+      <sub><b>GDG Udaipur</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://developers.google.com/static/profile/badges/community/gdg/member/badge.svg" width="100" alt="Google Developer Group Member"/><br />
+      <sub><b>GDG Member</b></sub>
+    </td>
+  </tr>
+</table>
+
+
